@@ -1,0 +1,5 @@
+class:Time、ViewController、ResultViewController及びMainStoryboradで作成したアプリです。
+Time：時間属性を管理、及びローカルに保存用のメソッド
+ainStoryborad：画面レイアウト
+ViewController：操作画面とデータ処理を統合するController
+ResultViewController：操作履歴をUitableviewで作成されたController
