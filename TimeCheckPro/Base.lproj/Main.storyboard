@@ -62,7 +62,7 @@
                                 <rect key="frame" x="221" y="513" width="69" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted" title="保存"/>
+                                <buttonConfiguration key="configuration" style="tinted" title="履歴"/>
                                 <connections>
                                     <action selector="saveButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O2s-Mh-b4N"/>
                                 </connections>
